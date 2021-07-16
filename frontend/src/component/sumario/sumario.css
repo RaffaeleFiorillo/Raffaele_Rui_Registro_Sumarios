@@ -1,0 +1,38 @@
+
+  .sumarios-list {
+    list-style: none;
+    margin-top: 100px;
+    padding: 0;
+  }
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  
+  button:active {
+    background-color: rgb(0, 0, 255);
+    color: rgb(14, 200, 255);
+    border: 3px solid rgb(14, 200, 255);
+    transition: 0.4s;
+  
+  }
+
+.sem_sumario{
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 15vw;
+  color: rgb(30, 30, 30);
+}
+.sem_sumario h1{
+    font-size: 18px;
+    color:rgb(30, 30, 30);
+    margin-left: 6%;
+} 
+.ico_sem{
+    width: 80px;
+    height: 80px;
+    margin-left: 38%;
+}

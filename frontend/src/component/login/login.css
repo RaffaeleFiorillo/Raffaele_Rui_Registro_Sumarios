@@ -1,0 +1,65 @@
+.login {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom:30px;
+    padding: 10px;
+    background-color: #444444;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+  }
+  
+  .login h2 {
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  
+  .login h3 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 1rem;
+  }
+  .login p{
+    font-size: 18px;
+    color: #a9a9a9;
+  }
+  .edit{
+    margin-top: 20px;
+    width: 350px;
+    height: 50px;
+    background-color: #027602;
+    border-color: inherit;
+  }
+  .edit:hover{
+    background-color: #00d500;
+  }
+
+  .login .acederButton {
+    font: inherit;
+    cursor: pointer;
+    background: rgb(14, 200, 255);
+    border: 3px solid rgb(0, 0, 255);
+    color: black;
+    align-content: center;
+    padding: 0.5rem 2rem;
+    border-radius: 30px;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  button:active {
+    background-color: rgb(0, 0, 255);
+    color: rgb(14, 200, 255);
+    border: 3px solid rgb(14, 200, 255);
+    transition: 0.4s;
+  
+  }
+
+  .login .acederButton{
+    width: 8rem;
+    text-align: center;
+  }

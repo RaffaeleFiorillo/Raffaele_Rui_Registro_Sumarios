@@ -1,0 +1,45 @@
+.sumario {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom:30px;
+    padding: 1rem;
+    background-color: #444444;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+  }
+  .sumario_info {
+    text-align: center;
+  }
+  .sumario_info li{
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 90px;
+  }
+  
+  .sumario h2 {
+    font-size: 2rem;
+    color: #ffffff;
+  }
+  
+  .sumario h3 {
+    color: #ffffff;
+    margin: 0;
+    font-size: 1rem;
+  }
+  .sumario p{
+    font-size: 18px;
+    color: #a9a9a9;
+  }
+  .edit{
+    margin-top: 20px;
+    width: 350px;
+    height: 50px;
+    background-color: #027602;
+    border-color: inherit;
+  }
+  .edit:hover{
+    background-color: #00d500;
+  }
+  

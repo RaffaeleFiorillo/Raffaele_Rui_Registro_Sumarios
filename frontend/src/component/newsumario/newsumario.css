@@ -1,0 +1,31 @@
+.sum_form ul{
+    display:inline-block;
+}
+.sum_form ul li{
+    text-decoration: none;
+    display:inline-block;
+    margin-right: 20px;
+}
+.input_cont{
+    width: 42vw;
+    height: 10vw;
+    padding: 15px;
+    border-radius: 6px;
+}
+.value_input{
+    width: 10vw;
+    height: 3vw;
+    padding-left: 10px;
+    border-radius: 5px;
+    
+}
+.input_type1{
+    width: 5vw;
+    height: 3vw;
+    border-radius: 5px;
+}
+.input_type2{
+    width: 20vw;
+    height: 3vw;
+    border-radius: 5px;
+}

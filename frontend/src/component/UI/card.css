@@ -1,0 +1,80 @@
+.card {
+    width: 60%;
+    padding: 20px;
+    margin: auto auto;
+    background-color: #3a3a3a;
+    box-shadow: 0 2px 8px rgba(189, 189, 189, 0.953);
+    border-radius: 12px;
+}
+
+.card-1{
+    width: 60%;
+    padding: 10px;
+    margin: auto auto;
+    background-color: #303030;
+    box-shadow: 0 2px 8px rgba(189, 189, 189, 0.953);
+    border-radius: 12px;
+}
+
+.card-filter{
+    padding: 5px;
+    margin: auto auto;
+    background-color: #333333;
+    /* box-shadow: 0 2px 8px rgba(49, 49, 49, 0.953); */
+    border-radius: 12px;
+}
+
+.login{
+    width: 300px;
+    height: 35vw;
+    background-color: rgb(30,30,30);
+    margin: 7vw auto;
+    border-radius: 5px;
+    padding: 30px;
+    align-content: center;
+    justify-content: center;
+}
+
+.navigation{
+    width: 100%;
+    top: 0;
+    position: fixed;
+    background-color: rgb(30, 30, 30);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.new_sumario{
+    margin: 100px auto;
+    width: 60%;
+    padding: 1rem;
+    background-color: #444444;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+}
+
+.button {
+    font: inherit;
+    cursor: pointer;
+    background: rgb(14, 200, 255);
+    border: 3px solid rgb(0, 0, 255);
+    color: black;
+    padding: 0.5rem 2rem;
+    border-radius: 30px;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  
+  button:active {
+    background-color: rgb(0, 0, 255);
+    color: rgb(14, 200, 255);
+    border: 3px solid rgb(14, 200, 255);
+    transition: 0.4s;
+  
+  }
+
